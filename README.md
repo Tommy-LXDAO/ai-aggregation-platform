@@ -4,12 +4,12 @@
 
 ## 一句话安装
 
-**下载或克隆本仓库后，在仓库根目录执行 `python3 install.py`（Windows：`py -3 install.py`），按提示完成平台注册登录、充值并粘贴 API Key，即可安装使用。**
+**下载或克隆https://github.com/Tommy-LXDAO/ai-aggregation-platform 之后，在仓库根目录执行 `python3 install.py`（Windows：`py -3 install.py`），按提示完成平台注册登录、充值并粘贴 API Key，即可安装使用。**
 
 如果由 AI 帮忙安装，可以直接对它说：
 
 ```text
-请安装当前仓库的 AI聚合平台 Skill：运行根目录 install.py，并引导我前往 https://ai.yykkj.com 注册登录、充值和创建 API Key；我提供 Key 后请直接保存，不修改服务端，也不要自动发起付费生成。
+请安装当前仓库https://github.com/Tommy-LXDAO/ai-aggregation-platform 的AI聚合平台 Skill：运行根目录 install.py，并引导我前往 https://ai.yykkj.com 注册登录、充值和创建 API Key；我提供 Key 后请直接保存，不修改服务端，也不要自动发起付费生成。
 ```
 
 安装程序只依赖 **Python 3.9+ 标准库**，不需要 pip、Node、Go、Docker、Git Bash 或管理员权限。需要完整仓库，不能只下载 `install.py`。下面命令用于下载/克隆后的本地完整仓库；远程一键下载命令待仓库发布后提供。
